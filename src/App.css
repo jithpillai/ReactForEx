@@ -30,3 +30,20 @@
     transform: rotate(360deg);
   }
 }
+
+.stripped .rt-tr-group .-even{
+  background: white !important;
+  color: black !important;
+}
+
+.highlight .rt-tr-group .rt-tr:hover {
+  background: #CED8F6 !important;
+  color: black !important;
+  cursor: pointer;
+}
+
+.rt-th img{
+  margin: 1px;
+  position: absolute;
+  top: 25%;
+}
